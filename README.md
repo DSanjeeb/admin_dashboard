@@ -1,2 +1,7 @@
 # admin_dashboard
-[Rails:Project] Admin Web Panel
+
+###Project Name:### Admin Dashboard
+###Contact Name:### Darshan Sanjeeb
+###Email Contact:### sanjeeb@darshan.fr
+
+
